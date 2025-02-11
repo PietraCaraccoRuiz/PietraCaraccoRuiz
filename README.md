@@ -10,6 +10,10 @@
 
 <p>Trabalhando na Bosch</br> Aprendiz Soluções Digitais!</p>
 
+<details>
+  <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
+  <br>
+
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
